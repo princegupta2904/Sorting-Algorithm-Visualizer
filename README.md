@@ -1,3 +1,10 @@
+#Project Structure
+sorting-algorithm-visualizer/
+│
+├── index.html
+├── style.css
+└── script.js
+
 # Sorting Algorithm Visualizer
 
 An interactive web-based Sorting Algorithm Visualizer built using HTML, CSS, and JavaScript.  
